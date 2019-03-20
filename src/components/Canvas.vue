@@ -205,13 +205,6 @@ export default {
   box-sizing: border-box;
 }
 
-.icon {
-  width: 1em;
-  height: 1em;
-  vertical-align: -0.15em;
-  fill: currentColor;
-  overflow: hidden;
-}
 
 body {
   margin: 0;
@@ -232,10 +225,10 @@ body {
 }
 
 .actions svg {
-  width: 1.5em;
-  height: 1.5em;
+  width: 2em;
+  height: 2em;
   transition: all 0.3s;
-  margin: 0 10px;
+  margin: 0 4px;
 }
 
 .actions svg.active {
